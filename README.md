@@ -16,3 +16,4 @@ from src.handler import lambda_handler
 print(lambda_handler({"body": json.dumps({"cpf": "12345678901"})}, None))
 PY
 ```
+test
